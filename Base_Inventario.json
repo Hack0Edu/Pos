@@ -1,0 +1,114 @@
+[
+    {
+        "codigo": 868392493878,
+        "nombre": "Caja de tuercas",
+        "StockMaximo": 583,
+        "StockMinimo": 216,
+        "Estado": "Disponible",
+        "Proveedor": "Jose"
+    },
+    {
+        "codigo": 831549986386,
+        "nombre": "LLave Stilson",
+        "StockMaximo": 706,
+        "StockMinimo": 266,
+        "Estado": "Disponible",
+        "Proveedor": "Hugo"
+    },
+    {
+        "codigo": 603040112362,
+        "nombre": "Martillo",
+        "StockMaximo": 800,
+        "StockMinimo": 485,
+        "Estado": "Disponible",
+        "Proveedor": "Carlos"
+    },
+    {
+        "codigo": 217355055267,
+        "nombre": "Alicate",
+        "StockMaximo": 607,
+        "StockMinimo": 395,
+        "Estado": "Disponible",
+        "Proveedor": "Juan"
+    },
+    {
+        "codigo": 789895432253,
+        "nombre": "Tenazas",
+        "StockMaximo": 840,
+        "StockMinimo": 209,
+        "Estado": "Disponible",
+        "Proveedor": "Juan"
+    },
+    {
+        "codigo": 562802171029,
+        "nombre": "Pinzas",
+        "StockMaximo": 990,
+        "StockMinimo": 177,
+        "Estado": "Disponible",
+        "Proveedor": "Carlos"
+    },
+    {
+        "codigo": 25210758376,
+        "nombre": "Mazas",
+        "StockMaximo": 703,
+        "StockMinimo": 380,
+        "Estado": "Disponible",
+        "Proveedor": "Jose"
+    },
+    {
+        "codigo": 355987990755,
+        "nombre": "Grapadoras",
+        "StockMaximo": 765,
+        "StockMinimo": 587,
+        "Estado": "Disponible",
+        "Proveedor": "Hugo"
+    },
+    {
+        "codigo": 196792417213,
+        "nombre": "Remachadoras",
+        "StockMaximo": 278,
+        "StockMinimo": 765,
+        "Estado": "Disponible",
+        "Proveedor": "Hugo"
+    },
+    {
+        "codigo": 270927407578,
+        "nombre": "LLave inglesa",
+        "StockMaximo": 804,
+        "StockMinimo": 391,
+        "Estado": "Disponible",
+        "Proveedor": "Carlos"
+    },
+    {
+        "codigo": 165620712097,
+        "nombre": "LLave allen",
+        "StockMaximo": 606,
+        "StockMinimo": 28,
+        "Estado": "Disponible",
+        "Proveedor": "Carlos"
+    },
+    {
+        "codigo": 45011309193,
+        "nombre": "cutter",
+        "StockMaximo": 731,
+        "StockMinimo": 5,
+        "Estado": "Disponible",
+        "Proveedor": "Hugo"
+    },
+    {
+        "codigo": 61849908592,
+        "nombre": "Caja de tuercas",
+        "StockMaximo": 583,
+        "StockMinimo": 216,
+        "Estado": "Disponible",
+        "Proveedor": "Hugo"
+    },
+    {
+        "codigo": 606060997453,
+        "nombre": "LLave Stilson",
+        "StockMaximo": 706,
+        "StockMinimo": 266,
+        "Estado": "Disponible",
+        "Proveedor": "Jose"
+    }
+]

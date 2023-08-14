@@ -1,0 +1,114 @@
+[
+    {
+        "codigo": 868392493878,
+        "nombre": "Caja de tuercas",
+        "numero_documento_compra": "001",
+        "fecha_compra": "2023-07-10",
+        "valor_compra": 150.00,
+        "cantidad_comprada": 10
+    },
+    {
+        "codigo": 831549986386,
+        "nombre": "LLave Stilson",
+        "numero_documento_compra": "002",
+        "fecha_compra": "2023-07-11",
+        "valor_compra": 75.50,
+        "cantidad_comprada": 5
+    },
+    {
+        "codigo": 603040112362,
+        "nombre": "Martillo",
+        "numero_documento_compra": "003",
+        "fecha_compra": "2023-07-12",
+        "valor_compra": 25.00,
+        "cantidad_comprada": 3
+    },
+    {
+        "codigo": 217355055267,
+        "nombre": "Alicate",
+        "numero_documento_compra": "004",
+        "fecha_compra": "2023-07-13",
+        "valor_compra": 35.99,
+        "cantidad_comprada": 2
+    },
+    {
+        "codigo": 789895432253,
+        "nombre": "Tenazas",
+        "numero_documento_compra": "005",
+        "fecha_compra": "2023-07-14",
+        "valor_compra": 19.99,
+        "cantidad_comprada": 4
+    },
+    {
+        "codigo": 562802171029,
+        "nombre": "Pinzas",
+        "numero_documento_compra": "006",
+        "fecha_compra": "2023-07-15",
+        "valor_compra": 12.50,
+        "cantidad_comprada": 8
+    },
+    {
+        "codigo": 25210758376,
+        "nombre": "Mazas",
+        "numero_documento_compra": "007",
+        "fecha_compra": "2023-07-16",
+        "valor_compra": 29.99,
+        "cantidad_comprada": 3
+    },
+    {
+        "codigo": 355987990755,
+        "nombre": "Grapadoras",
+        "numero_documento_compra": "008",
+        "fecha_compra": "2023-07-17",
+        "valor_compra": 8.75,
+        "cantidad_comprada": 6
+    },
+    {
+        "codigo": 196792417213,
+        "nombre": "Remachadoras",
+        "numero_documento_compra": "009",
+        "fecha_compra": "2023-07-18",
+        "valor_compra": 14.50,
+        "cantidad_comprada": 2
+    },
+    {
+        "codigo": 270927407578,
+        "nombre": "LLave inglesa",
+        "numero_documento_compra": "010",
+        "fecha_compra": "2023-07-19",
+        "valor_compra": 42.00,
+        "cantidad_comprada": 1
+    },
+    {
+        "codigo": 165620712097,
+        "nombre": "LLave allen",
+        "numero_documento_compra": "011",
+        "fecha_compra": "2023-07-20",
+        "valor_compra": 6.99,
+        "cantidad_comprada": 4
+    },
+    {
+        "codigo": 45011309193,
+        "nombre": "cutter",
+        "numero_documento_compra": "012",
+        "fecha_compra": "2023-07-21",
+        "valor_compra": 3.50,
+        "cantidad_comprada": 10
+    },
+    {
+        "codigo": 61849908592,
+        "nombre": "Caja de tuercas",
+        "numero_documento_compra": "013",
+        "fecha_compra": "2023-07-22",
+        "valor_compra": 150.00,
+        "cantidad_comprada": 5
+    },
+    {
+        "codigo": 606060997453,
+        "nombre": "LLave Stilson",
+        "numero_documento_compra": "014",
+        "fecha_compra": "2023-07-23",
+        "valor_compra": 75.50,
+        "cantidad_comprada": 3
+    }
+]

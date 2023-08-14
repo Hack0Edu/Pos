@@ -1,0 +1,71 @@
+[
+    {
+        "numero_factura": "001",
+        "fecha_venta": "2023-08-01",
+        "numero_id_cliente": "1234567890",
+        "nombre_cliente": "Juan Pérez",
+        "total_factura": 250.00,
+        "productos": [
+            {
+                "codigo": 868392493878,
+                "nombre": "Caja de tuercas",
+                "cantidad_vendida": 5,
+                "valor_unitario": 30.00
+            },
+            {
+                "codigo": 831549986386,
+                "nombre": "LLave Stilson",
+                "cantidad_vendida": 2,
+                "valor_unitario": 45.00
+            }
+        ]
+    },
+    {
+        "numero_factura": "002",
+        "fecha_venta": "2023-08-02",
+        "numero_id_cliente": "0987654321",
+        "nombre_cliente": "María López",
+        "total_factura": 120.50,
+        "productos": [
+            {
+                "codigo": 603040112362,
+                "nombre": "Martillo",
+                "cantidad_vendida": 1,
+                "valor_unitario": 40.50
+            },
+            {
+                "codigo": 217355055267,
+                "nombre": "Alicate",
+                "cantidad_vendida": 3,
+                "valor_unitario": 26.00
+            },
+            {
+                "codigo": 789895432253,
+                "nombre": "Tenazas",
+                "cantidad_vendida": 2,
+                "valor_unitario": 18.00
+            }
+        ]
+    },
+    {
+        "numero_factura": "003",
+        "fecha_venta": "2023-08-03",
+        "numero_id_cliente": "5678901234",
+        "nombre_cliente": "Ana Gómez",
+        "total_factura": 98.99,
+        "productos": [
+            {
+                "codigo": 562802171029,
+                "nombre": "Pinzas",
+                "cantidad_vendida": 4,
+                "valor_unitario": 12.50
+            },
+            {
+                "codigo": 25210758376,
+                "nombre": "Mazas",
+                "cantidad_vendida": 1,
+                "valor_unitario": 29.99
+            }
+        ]
+    }
+]
